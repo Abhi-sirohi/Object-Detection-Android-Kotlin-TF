@@ -1,1 +1,1 @@
-#Object Detection Android in Kotlin Using TensorFlow lite
+**Object Detection Android in Kotlin Using TensorFlow lite**
