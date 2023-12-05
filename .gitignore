@@ -1,0 +1,23 @@
+/app/build/
+# Default ignored files
+/shelf/
+/workspace.xml
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/build/
+/captures
+.externalNativeBuild
+/core/build/
+/ux/build/
+/.idea/shelf
+/.idea/misc.xml
+/.idea/
+/gradle.xml
+
